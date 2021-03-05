@@ -1,0 +1,14 @@
+{
+  "categorias": [
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": ""
+    },
+    {
+      "name": "teste",
+      "image": "",
+      "id": 3
+    }
+  ]
+}
